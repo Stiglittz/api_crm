@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Diego Orlando A M",
+      "empresa": "Solinek",
+      "email": "correo@correo.com",
+      "telefono": "1212121212",
+      "notas": "El diego se la come",
+      "id": 4
+    },
+    {
+      "nombre": "Diego 2 Act!!",
+      "empresa": "Solinek",
+      "email": "correo@correo.com",
+      "telefono": "1212121212",
+      "notas": "El diego se la come",
+      "id": 5
+    },
+    {
+      "nombre": "Wendy",
+      "empresa": "Fotos",
+      "email": "correo@marlene.com",
+      "telefono": "3434343434",
+      "notas": "Wendy loka",
+      "id": 7
+    },
+    {
+      "nombre": "Omar Garcia Botello",
+      "empresa": "SOlinek",
+      "email": "omar@omar.com",
+      "telefono": "0900909090",
+      "notas": "SOlinek sOlinek",
+      "id": 9
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Pailina construcciones",
+      "email": "paulina@correo.com",
+      "telefono": "77777777",
+      "notas": "siisisisisisisi",
+      "id": 10
+    },
+    {
+      "nombre": "Amy Gzz Rincon",
+      "empresa": "Casa",
+      "email": "Amy@amy.com",
+      "telefono": "9999999",
+      "notas": "Hola Amy",
+      "id": 15
+    }
+  ]
+}
